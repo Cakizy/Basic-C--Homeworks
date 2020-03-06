@@ -1,0 +1,22 @@
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.exe
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.deps.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.dll
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.pdb
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.dll
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\HomeWork class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.pdb
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.exe
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.deps.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.dll
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\bin\Debug\netcoreapp3.1\HomeWork class 02.pdb
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.dll
+C:\Users\Chucky\Desktop\seavus vs\2 lekcija\Homework C# #02 - class 02\HomeWork class 02\obj\Debug\netcoreapp3.1\HomeWork class 02.pdb
