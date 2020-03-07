@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chucky\\Desktop\\seavus vs\\2 lekcija\\Homework C# #02 - class 02\\HomeWork class 02\\HomeWork class 02.csproj",
+      "projectUniqueName": "C:\\Users\\Chucky\\Desktop\\seavus vs\\Basic-C--Homeworks\\Homework C# #02 - class 02\\HomeWork class 02\\HomeWork class 02.csproj",
       "projectName": "HomeWork class 02",
-      "projectPath": "C:\\Users\\Chucky\\Desktop\\seavus vs\\2 lekcija\\Homework C# #02 - class 02\\HomeWork class 02\\HomeWork class 02.csproj",
+      "projectPath": "C:\\Users\\Chucky\\Desktop\\seavus vs\\Basic-C--Homeworks\\Homework C# #02 - class 02\\HomeWork class 02\\HomeWork class 02.csproj",
       "packagesPath": "C:\\Users\\Chucky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chucky\\Desktop\\seavus vs\\2 lekcija\\Homework C# #02 - class 02\\HomeWork class 02\\obj\\",
+      "outputPath": "C:\\Users\\Chucky\\Desktop\\seavus vs\\Basic-C--Homeworks\\Homework C# #02 - class 02\\HomeWork class 02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chucky\\AppData\\Roaming\\NuGet\\NuGet.Config",

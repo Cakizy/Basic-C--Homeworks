@@ -61,46 +61,36 @@ namespace HomeWork_class_02
 
             //if (num1 > num2)
             //{
-            //    Console.WriteLine($"\"{num1}\" is larger then \"{num2}\"");
-
-            //}
-            //else
+            //    if (num1 % 2 == 0)
+            //    {
+            //    Console.WriteLine($"\"{num1}\" is even and is larger then \"{num2}\"");
+            //    }else
+            //    {
+            //        Console.WriteLine($"\"{num1}\" is odd and is larger then \"{num2}\"");
+            //    }
+            //} else if (num1 < num2)
             //{
-            //    Console.WriteLine($"\"{num2}\" is larger then \"{num1}\"");
+            //    if (num2 % 2 == 0)
+            //    {
+            //        Console.WriteLine($"Entered Number({num2}) is an even and is larger then \"{num1}\"");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"Entered Number({num2}) is an odd and is larger then \"{num1}\"");
 
-            //}
-
-            //if (num1 % 2 == 0)
-            //{
-            //    Console.WriteLine($"Entered Number({num1}) is an Even Number");
+            //    }
             //} else
             //{
-            //    Console.WriteLine($"Entered Number({num1}) is an Odd Number");
-
+            //    if (num1 %2 == 0)
+            //    {
+            //        Console.WriteLine($"\"{num1}\" and \"{num2}\" are equal and they are even");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"\"{num1}\" and \"{num2}\" are equal and they are odd");
+            //    }
             //}
 
-
-            //if (num2 % 2 == 0)
-            //{
-            //    Console.WriteLine($"Entered Number({num2}) is an Even Number");
-            //}
-            //else
-            //{
-            //    Console.WriteLine($"Entered Number({num2}) is an Odd Number");
-            //}
-
-            //if (num1 > num2)
-            //{
-            //    Console.WriteLine($"Number {num1} is bigger then {num2}");
-            //}
-            //else if (num2 > num1)
-            //{
-            //    Console.WriteLine($"Number {num2} is bigger then {num1}");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("They are equal");
-            //}
             //Console.ReadLine();
             ////Exercise 6 End--------------------------------------------------------------------------------------------
             ////Exercise 7 Start------------------------------------------------------------------------------------------
