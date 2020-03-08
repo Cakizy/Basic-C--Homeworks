@@ -9,3 +9,14 @@ C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C Sharp 02 - homew
 C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C Sharp 02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).AssemblyInfo.cs
 C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C Sharp 02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).dll
 C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C Sharp 02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).pdb
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).exe
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).deps.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\bin\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).pdb
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework C# #02 - homeworks(tasks)\Homework C Sharp 02 - homeworks(tasks)\obj\Debug\netcoreapp3.1\Homework C Sharp 02 - homeworks(tasks).pdb

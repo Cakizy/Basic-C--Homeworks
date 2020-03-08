@@ -97,12 +97,10 @@ namespace Homework_C_Sharp_02___homeworks_tasks_
         }
         static double InputNumber()
         {
-            double number;
-            bool parsingNumber = double.TryParse(Console.ReadLine(), out number);
+            bool parsingNumber = double.TryParse(Console.ReadLine(), out double number);
             while (!parsingNumber)
             {
                 Console.WriteLine("Whoops, something went wrong, you need to enter a number!");
-
                 parsingNumber = double.TryParse(Console.ReadLine(), out number);
             }
             return number;
