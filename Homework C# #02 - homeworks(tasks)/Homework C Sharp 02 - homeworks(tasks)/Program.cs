@@ -41,6 +41,7 @@ namespace Homework_C_Sharp_02___homeworks_tasks_
             //        Console.WriteLine($"The result is: {sum} ");
             //        break;
             //    default:
+            //        Console.WriteLine("You need to enter operator between: + , - , / , *");
             //        break;
             //}
             //Console.ReadLine();
