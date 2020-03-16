@@ -69,42 +69,47 @@ namespace Heroes_Journey
             Console.WriteLine("Enter password: ");
             passwordLogin = Console.ReadLine().ToLower();
 
-            while (emailLogin == "" || passwordLogin == "")
-            {
-                Checker(checker++);
-                Console.WriteLine("Don't leave email or password empty! Press enter to try again...");
-                Console.ReadLine();
-                Console.Clear();
-                Console.WriteLine("Enter email: ");
-                emailLogin = Console.ReadLine().ToLower();
-                Console.WriteLine("Enter password: ");
-                passwordLogin = Console.ReadLine().ToLower();
-            }
-            while (!emailLogin.Contains(".") || !emailLogin.Contains("@"))
-            {
-                Checker(checker++);
-                Console.WriteLine("Email is not valid. Press enter to try again...");
-                Console.ReadLine();
-                Console.Clear();
-                Console.WriteLine("Enter email: ");
-                emailLogin = Console.ReadLine().ToLower();
-                Console.WriteLine("Enter password: ");
-                passwordLogin = Console.ReadLine().ToLower();
-            }
-
             checkEmail = Array.IndexOf(emails, emailLogin);
             checkPassword = Array.IndexOf(passwords, passwordLogin);
 
             while (checkEmail == -1 || checkPassword == -1 || checkEmail != checkPassword)
             {
-                Checker(checker++);
-                Console.WriteLine("Email or password did not match. Press enter to try again...");
-                Console.ReadLine();
-                Console.Clear();
-                Console.WriteLine("Enter email: ");
-                emailLogin = Console.ReadLine();
-                Console.WriteLine("Enter password: ");
-                passwordLogin = Console.ReadLine();
+                if (emailLogin == "" || passwordLogin == "")
+                {
+                    Checker(checker++);
+                    Console.WriteLine("Don't leave email or password empty! Press enter to try again...");
+                    Console.ReadLine();
+                    Console.Clear();
+                    Console.WriteLine("Enter email: ");
+                    emailLogin = Console.ReadLine().ToLower();
+                    Console.WriteLine("Enter password: ");
+                    passwordLogin = Console.ReadLine().ToLower();
+                }
+                else if (!emailLogin.Contains(".") || !emailLogin.Contains("@"))
+                {
+                    Checker(checker++);
+                    Console.WriteLine("Email is not valid. Press enter to try again...");
+                    Console.ReadLine();
+                    Console.Clear();
+                    Console.WriteLine("Enter email: ");
+                    emailLogin = Console.ReadLine().ToLower();
+                    Console.WriteLine("Enter password: ");
+                    passwordLogin = Console.ReadLine().ToLower();
+                }
+
+
+                else{
+                    Checker(checker++);
+                    Console.WriteLine("Email or password did not match. Press enter to try again...");
+                    Console.ReadLine();
+                    Console.Clear();
+                    Console.WriteLine("Enter email: ");
+                    emailLogin = Console.ReadLine();
+                    Console.WriteLine("Enter password: ");
+                    passwordLogin = Console.ReadLine();
+                    checkEmail = Array.IndexOf(emails, emailLogin);
+                    checkPassword = Array.IndexOf(passwords, passwordLogin);
+                }
                 checkEmail = Array.IndexOf(emails, emailLogin);
                 checkPassword = Array.IndexOf(passwords, passwordLogin);
             }
