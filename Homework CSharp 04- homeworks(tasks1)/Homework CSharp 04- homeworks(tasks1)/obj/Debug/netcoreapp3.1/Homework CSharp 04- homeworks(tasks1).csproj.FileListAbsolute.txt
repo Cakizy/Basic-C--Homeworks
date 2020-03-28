@@ -1,0 +1,11 @@
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).exe
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).deps.json
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).runtimeconfig.json
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).runtimeconfig.dev.json
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).dll
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\bin\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).pdb
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\obj\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).csprojAssemblyReference.cache
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\obj\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).AssemblyInfoInputs.cache
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\obj\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).AssemblyInfo.cs
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\obj\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).dll
+C:\Users\Chucky\source\repos\Homework CSharp 04- homeworks(tasks1)\Homework CSharp 04- homeworks(tasks1)\obj\Debug\netcoreapp3.1\Homework CSharp 04- homeworks(tasks1).pdb
