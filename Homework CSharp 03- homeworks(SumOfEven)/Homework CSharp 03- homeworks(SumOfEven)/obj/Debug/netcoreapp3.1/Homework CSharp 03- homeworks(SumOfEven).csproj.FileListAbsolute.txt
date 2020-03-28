@@ -1,0 +1,11 @@
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).exe
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).deps.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\bin\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).pdb
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\obj\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\obj\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\obj\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\obj\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 03- homeworks(SumOfEven)\Homework CSharp 03- homeworks(SumOfEven)\obj\Debug\netcoreapp3.1\Homework CSharp 03- homeworks(SumOfEven).pdb
