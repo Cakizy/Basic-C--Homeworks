@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Homework_CSharp_03__homeworks_Task_3___Bonus_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

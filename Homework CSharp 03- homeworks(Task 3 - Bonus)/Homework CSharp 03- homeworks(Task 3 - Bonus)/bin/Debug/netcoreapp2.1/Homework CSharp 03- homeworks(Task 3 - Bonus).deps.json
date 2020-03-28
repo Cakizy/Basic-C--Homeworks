@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Homework CSharp 03- homeworks(Task 3 - Bonus)/1.0.0": {
+        "runtime": {
+          "Homework CSharp 03- homeworks(Task 3 - Bonus).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework CSharp 03- homeworks(Task 3 - Bonus)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
