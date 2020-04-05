@@ -1,0 +1,10 @@
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\bin\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).deps.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\bin\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\bin\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\bin\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\bin\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).pdb
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\obj\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\obj\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\obj\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\obj\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).dll
+C:\Users\Chucky\Desktop\seavus vs\Basic-C--Homeworks\Homework CSharp 04- homeworks(tasks3)\Homework CSharp 04- homeworks(tasks3)\obj\Debug\netcoreapp2.1\Homework CSharp 04- homeworks(tasks3).pdb
