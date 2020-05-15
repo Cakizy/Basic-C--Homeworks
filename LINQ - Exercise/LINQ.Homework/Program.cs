@@ -131,7 +131,8 @@ namespace LINQ.Homework
             Console.WriteLine("longest song duration of the album that has least songs is: " + longestSongDurationOfAlbumWithLeastSongs);
             Console.WriteLine("==================================================================================");
             // - print the name of the album that has most songs that contain letter 'a' in the name
-            string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x=>x.Songs.Sum(y=>y.Name.Take('a').Count())).Select(x=>x.Name).FirstOrDefault();
+            //string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Sum(y => y.Name.Take('a').Count())).Select(x => x.Name).FirstOrDefault();
+            string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Where(y => y.Name.Contains('a')).Count()).Select(x => x.Name).FirstOrDefault();
             Console.WriteLine("album that has most songs that contain letter 'a' in the name is: " + albumWithMostSongsThatContainAInName);
             Console.WriteLine("==================================================================================");
             // - print the name of the artist that has most songs that end with letter 'd'
