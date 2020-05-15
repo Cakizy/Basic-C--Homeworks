@@ -51,12 +51,12 @@ namespace LINQ.Homework
 
             // - how many Songs start with the letter 'a' (case insensitive)
             Console.WriteLine("==================================================================================");
-            List<Song> songsStartsWithA = Songs.Where(a => a.Name.StartsWith('a')).ToList();
-            Console.WriteLine("Songs start with the letter \"a\"", songsStartsWithA.Count);
+            int songsStartsWithA = Songs.Where(a => a.Name.StartsWith('a')).ToList().Count;
+            Console.WriteLine("Songs start with the letter \"a\"", songsStartsWithA);
             Console.WriteLine("==================================================================================");
             // - how many artists end with letter 'a' (case insensitive)
-            List<Artist> artistEndsWithA = Artists.Where(a => a.FullName.EndsWith('a')).ToList();
-            Console.WriteLine("Artists end with letter \"a\"{0}", artistEndsWithA.Count);
+            int artistEndsWithA = Artists.Where(a => a.FullName.EndsWith('a')).ToList().Count;
+            Console.WriteLine("Artists end with letter \"a\"{0}", artistEndsWithA);
             Console.WriteLine("==================================================================================");
             // - whats the name of the song with longest duration
             string songWithLongesDuration = Songs.OrderByDescending(x => x.Duration).FirstOrDefault().Name;
@@ -81,13 +81,13 @@ namespace LINQ.Homework
             //    }
             //}
             //Console.WriteLine("{0} albums have Songs longer than 300 seconds", albumsHaveSongsLongerThan300seconds.Count);
-            List <Album> albumsHaveSongsLongerThan300seconds = Albums.Where(x => x.Songs.Any(y => y.Duration > 300)).ToList();
             //Testiram dali raboti kako sto treba
             //foreach (var item in albumsHaveSongsLongerThan300seconds)
             //{
             //    Console.WriteLine(item);
             //}
-            Console.WriteLine("{0} albums have Songs longer than 300 seconds", albumsHaveSongsLongerThan300seconds.Count());
+            int albumsHaveSongsLongerThan300seconds = Albums.Where(x => x.Songs.Any(y => y.Duration > 300)).Count();
+            Console.WriteLine("{0} albums have Songs longer than 300 seconds", albumsHaveSongsLongerThan300seconds);
             Console.WriteLine("==================================================================================");
             // - print the names of the artists(separated with "--"), that have more than one album of PopRock genre
             List <Artist> artistsWithMoreThenOneAlbumPopRock = Artists.Where(x => x.Albums.Any(y => y.Genre.Equals(Genre.PopRock))).ToList();
@@ -103,8 +103,8 @@ namespace LINQ.Homework
             Console.WriteLine("Album that has highest Average duration of a song: {0}", albumNameWithHighestAverageDurationSong);
             Console.WriteLine("==================================================================================");
             // - how many characters has the song that has the shortest Duration
-            char[] songWithShortestDurationInCharacters = Songs.OrderByDescending(x => x.Duration).Select(x=>x.Name).LastOrDefault().ToCharArray();
-            Console.WriteLine("Song that has the shortest Duration has {0} characters", songWithShortestDurationInCharacters.Length);
+            int songWithShortestDurationInCharacters = Songs.OrderByDescending(x => x.Duration).Select(x=>x.Name).LastOrDefault().ToCharArray().Length;
+            Console.WriteLine("Song that has the shortest Duration has {0} characters", songWithShortestDurationInCharacters);
             Console.WriteLine("==================================================================================");
             // - print the name and the genre of the album that has most songs
             //var albumWithTheMostSongs = Albums.OrderByDescending(x => x.Songs.Count).Select(x => new { x.Name, x.Genre }).FirstOrDefault();
