@@ -132,11 +132,14 @@ namespace LINQ.Homework
             Console.WriteLine("==================================================================================");
             // - print the name of the album that has most songs that contain letter 'a' in the name
             //string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Sum(y => y.Name.Take('a').Count())).Select(x => x.Name).FirstOrDefault();
-            string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Where(y => y.Name.Contains('a')).Count()).Select(x => x.Name).FirstOrDefault();
+            //string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Where(y => y.Name.Contains('a')).Count()).Select(x => x.Name).FirstOrDefault();
+            string albumWithMostSongsThatContainAInName = Albums.OrderByDescending(x => x.Songs.Count(y => y.Name.Contains('a'))).Select(x => x.Name).FirstOrDefault();
             Console.WriteLine("album that has most songs that contain letter 'a' in the name is: " + albumWithMostSongsThatContainAInName);
             Console.WriteLine("==================================================================================");
             // - print the name of the artist that has most songs that end with letter 'd'
-            string artistNameWithMostSongsEndWithLetterD = Artists.OrderByDescending(x=>x.Albums.Count(y=>y.Songs.Any(z => z.Name.EndsWith('d')))).Select(x=>x.FullName).FirstOrDefault();
+            string artistNameWithMostSongsEndWithLetterD = Artists.OrderByDescending(x => x.Albums.Count(y => y.Songs.Any(z => z.Name.EndsWith('d')))).Select(x => x.FullName).FirstOrDefault();
+            //string artistNameWithMostSongsEndWithLetterD = Artists.OrderByDescending(x => x.Albums.Count(y => y.Songs.Max(z => z.Name.EndsWith('d')))).Select(x => x.FullName).FirstOrDefault();
+            //string artistNameWithMostSongsEndWithLetterD = Artists.OrderByDescending(x => x.Albums.Max(y => y.Songs.Count(z => z.Name.EndsWith('d')))).Select(x => x.FullName).FirstOrDefault();
             Console.WriteLine("Name of the artist that has most songs that end with letter 'd' is: {0}",artistNameWithMostSongsEndWithLetterD);
             // ************ Don't mind the structure, focus on the lists declared on the beginning of Program.cs ****************
             // 3, 2, 1.... GO! :)
